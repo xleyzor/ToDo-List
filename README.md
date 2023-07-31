@@ -3,7 +3,7 @@
 <p>🏹 Ömer Toyga</p>
 <p>🏹 HTML & CSS & JavaScript</p>
 <p>🏹 31.07.2023</p>
-<p>🏹 <a href="https://to-do-list-ten-umber.vercel.app/">Live URL</a> </p>
+<p>🏹 <a href="https://to-do-list-ten-umber.vercel.app/" target="_blank">Live URL</a> </p>
 
 
 
