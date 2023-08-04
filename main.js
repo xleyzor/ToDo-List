@@ -6,8 +6,6 @@ const addInput = document.querySelector(".add-input");
 addBtn.addEventListener("click", addEvent);
 
 addInput.addEventListener("keyup", function (e) {
-    e.preventDefault();
-
   if (e.keyCode == 13) {
     addEvent();
   }
